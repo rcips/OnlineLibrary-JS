@@ -1,0 +1,28 @@
+/** @format */
+
+body {
+	background-image: url(../image/pexels-pixabay-235985.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	padding: 30px;
+	border-radius: 10px;
+	opacity: 90%;
+}
+th,
+td {
+	border: solid transparent;
+	border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	color: antiquewhite;
+}
+
+th,
+td:hover {
+	color: black;
+}
